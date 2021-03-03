@@ -4,7 +4,7 @@
 
 
 ## :scroll: Description
-Building master-detail activity using Android Jetpack Compose only for the UI.
+Building master-detail activity using Android Jetpack Compose.
 
 ## :bulb: Motivation and Context
 Using Jetpack Compose is really challenging, I learned a lot and looking forward to use the official release on my apps
